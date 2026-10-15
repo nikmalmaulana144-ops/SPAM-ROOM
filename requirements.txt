@@ -1,0 +1,9 @@
+requests
+psutil
+PyJWT
+protobuf
+protobuf-decoder
+python-cfonts
+rich
+pycryptodome
+aiohttp
